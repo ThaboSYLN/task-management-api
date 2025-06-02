@@ -20,8 +20,8 @@ A simple task management API built using FastAPI, supporting user registration, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fastapi-task-manager.git
-cd fastapi-task-manager
+git clone https://github.com/ThaboSYLN/task-management-api
+cd task-management-api
 ```
 
 ### 2. (Optional) Create a Virtual Environment
